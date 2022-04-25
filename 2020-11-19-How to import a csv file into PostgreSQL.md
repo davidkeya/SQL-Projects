@@ -1,9 +1,5 @@
----
-title:  "How to import a csv file into PostgreSQL"
-category: posts
-date: 2020-11-19
-excerpt: "Here’s How to import a csv file into PostgreSQL"
----
+# How to import a csv file into PostgreSQ
+
 
 ### What you need
 1.	Sqlite3
